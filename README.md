@@ -10,3 +10,6 @@ Update database reqs
 Migrate app data
 `python manage.py makemigrations polls`
 
+Create an admin
+`python manage.py createsuperuser`
+
