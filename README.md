@@ -3,3 +3,10 @@ To start a project
 
 To run server
 `python manage.py runserver [port]`
+
+Update database reqs
+`python manage.py migrate`
+
+Migrate app data
+`python manage.py makemigrations polls`
+
